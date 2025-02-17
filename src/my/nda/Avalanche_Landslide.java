@@ -40,7 +40,7 @@ public class Avalanche_Landslide extends javax.swing.JFrame {
       try 
         {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            con = DriverManager.getConnection("jdbc:mysql://localhost:3307/natural_disaster_alert", "root", "");
+            con = DriverManager.getConnection("jdbc:mysql://localhost:3308/natural_disaster_alert", "root", "");
         } 
       
       catch (ClassNotFoundException | SQLException ex) 

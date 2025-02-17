@@ -70,7 +70,6 @@ public class Welcome extends javax.swing.JFrame {
         jLabel2.setFont(new java.awt.Font("Times New Roman", 3, 20)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(78, 42, 10));
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel2.setText("Developed, in association with the Indian Meteorological Department (IMD)");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
